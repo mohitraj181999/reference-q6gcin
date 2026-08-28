@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohitraj181999.github.io/reference-q6gcin/sitemap.xml
